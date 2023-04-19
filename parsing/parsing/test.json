@@ -1,0 +1,16 @@
+{
+  "nama": {
+    "depan": "Hermawan",
+    "belakang": "Saputra"
+  },
+  "nim": 1302213080,
+  "matkul": [
+    "KPL",
+    "Pengalaman Pengguna",
+    "Penjaminan Mutu Perangkat Lunak",
+    "Struktur Data",
+    "Dasar Jaringan Komputer",
+    "Basis Data",
+    "TPLM"
+  ]
+}
