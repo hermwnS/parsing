@@ -1,0 +1,15 @@
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\bin\Debug\net6.0\parsing.exe
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\bin\Debug\net6.0\parsing.deps.json
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\bin\Debug\net6.0\parsing.runtimeconfig.json
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\bin\Debug\net6.0\parsing.dll
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\bin\Debug\net6.0\parsing.pdb
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.csproj.AssemblyReference.cache
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.AssemblyInfoInputs.cache
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.AssemblyInfo.cs
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.csproj.CoreCompileInputs.cache
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.dll
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\refint\parsing.dll
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.pdb
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\parsing.genruntimeconfig.cache
+D:\kuliah\semester 4\konstruksi PL\parsing\parsing\parsing\obj\Debug\net6.0\ref\parsing.dll
